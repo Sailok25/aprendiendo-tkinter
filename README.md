@@ -1,0 +1,106 @@
+<div align="center">
+
+# 🎨 Aprendiendo Tkinter
+
+[![Python Version](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
+[![Tkinter](https://img.shields.io/badge/Tkinter-GUI-green.svg)](https://docs.python.org/3/library/tkinter.html)
+[![Estado](https://img.shields.io/badge/Estado-En%20progreso-yellow)]()
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+
+**30 ejercicios progresivos para dominar Tkinter desde cero.**
+
+<div align="center">
+  <a href="https://github.com/tu-usuario/aprendiendo-tkinter">
+    <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  </a>
+  <a href="https://docs.python.org/3/library/tkinter.html">
+    <img src="https://img.shields.io/badge/tkinter-00457C?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter">
+  </a>
+</div>
+
+</div>
+
+---
+
+## 📋 Descripción
+
+Este repositorio contiene **30 ejercicios prácticos** para aprender Tkinter, la librería gráfica estándar de Python. Cada ejercicio está numerado y cubre un concepto específico, desde lo más básico hasta temas avanzados.
+
+El objetivo final es construir **Sailock**, un gestor de contraseñas local con interfaz estilo terminal (negro/verde).
+
+---
+
+## 📂 Estructura del Proyecto
+aprendiendo-tkinter/
+│
+├── 01_hola_mundo.py # Primera ventana
+├── 02_colores_fuentes.py # Colores y tipografía
+├── 03_botones.py # Botones básicos
+├── 04_entries.py # Campos de texto
+├── 05_layout_pack.py # Layout con pack
+├── 06_layout_grid.py # Layout con grid
+├── 07_layout_place.py # Layout con place
+├── 08_eventos_command.py # Eventos con command
+├── 09_eventos_bind.py # Eventos con bind
+├── 10_checkboxes.py # Checkboxes
+├── 11_radio_buttons.py # Botones de radio
+├── 12_listbox.py # Listas
+├── 13_combobox.py # Listas desplegables
+├── 14_imagenes.py # Cargar imágenes
+├── 15_messagebox.py # Diálogos de mensajes
+├── 16_filedialog.py # Abrir/guardar archivos
+├── 17_menus.py # Barras de menú
+├── 18_frame_contenedores.py # Frames y contenedores
+├── 19_scrollbar.py # Barras de scroll
+├── 20_canvas_dibujo.py # Dibujo libre
+├── 21_notebook_pestanas.py # Pestañas
+├── 22_treeview_tablas.py # Tablas
+├── 23_spinbox.py # Selector numérico
+├── 24_slider_scale.py # Barras deslizantes
+├── 25_progressbar.py # Barras de progreso
+├── 26_text_multilinea.py # Áreas de texto
+├── 27_colordialog.py # Selector de color
+├── 28_font_selector.py # Selector de fuente
+├── 29_atajos_teclado.py # Atajos de teclado
+├── 30_mini_proyecto_final.py # Proyecto final (Sailock)
+└── README.md # Este archivo
+
+
+---
+
+## 🚀 Cómo Empezar
+
+### Requisitos previos
+
+- Python 3.x instalado ([descargar](https://www.python.org/downloads/))
+- Editor de código (recomiendo [VS Code](https://code.visualstudio.com/))
+- Tkinter (viene incluido con Python)
+
+### Instalación
+
+```bash
+# Clonar el repositorio
+git clone https://github.com/tu-usuario/aprendiendo-tkinter
+cd aprendiendo-tkinter
+
+# Instalar dependencias (para ejercicios con imágenes)
+pip install Pillow
+```
+
+## 🗺️ Hoja de Ruta
+Rango	Ejercicios	Conceptos
+Nivel 1 (1-7)	01-07	Fundamentos: ventanas, colores, botones, layouts
+Nivel 2 (8-14)	08-14	Eventos, checkboxes, radios, listas, imágenes
+Nivel 3 (15-22)	15-22	Diálogos, menús, frames, scroll, canvas, pestañas
+Nivel 4 (23-29)	23-29	Controles avanzados, sliders, atajos
+Nivel 5 (30)	30	Proyecto final: Sailock
+
+## 📚 Recursos Útiles
+- Documentación oficial de Tkinter
+- Tutorial Tkinter (INTEF)
+- Tkinter Reference Guide
+- Curso Python de Midudev
+- https://nachoiborraies.github.io/python/13.html#1-primeros-pasos-con-tkinter

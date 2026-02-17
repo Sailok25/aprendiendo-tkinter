@@ -70,8 +70,10 @@ aprendiendo-tkinter/
 - Nivel 5 (30)	30	Proyecto final: Sailock.
 
 ## 📚 Recursos Útiles
-- Documentación oficial de Tkinter
-- Tutorial Tkinter (INTEF)
-- Tkinter Reference Guide
-- Curso Python de Midudev
-- https://nachoiborraies.github.io/python/13.html#1-primeros-pasos-con-tkinter
+- [Documentación oficial de Tkinter](https://docs.python.org/3/library/tkinter.html)
+- [Tutorial Tkinter (INTEF)](https://formacion.intef.es/aulaenabierto/mod/book/tool/print/index.php?id=5154)
+- [Curso Python de Midudev](https://youtu.be/TkN2i-_4N4g?si=nt7Zrqbz-2rFHi8T)
+- [Tkinter Reference Guide](https://tkdocs.com/pyref/)
+- [Curso Tkinter Python de Código Espinoza - Automatiza tu vida](https://youtube.com/playlist?list=PL7HAy5R0ehQXb2aFKOKyeCMequxyb5jzJ&si=gQzmKu0FSLO1Q17B)
+- [Nacho Iborraies - Primeros pasos con Tkinter](https://nachoiborraies.github.io/python/13.html#1-primeros-pasos-con-tkinter)
+- [Python Tutorial - Tkinter](https://www.pythontutorial.net/tkinter/)
